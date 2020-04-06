@@ -20,6 +20,6 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		echo "MORO TÄÄ ON CI KOLME (3)!!";
+		echo "MORO TÄÄ ON CI KOLMONEN (3)!!";
 	}
 }
